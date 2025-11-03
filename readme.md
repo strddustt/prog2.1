@@ -22,15 +22,15 @@ c:
 ![breakpoint](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-11-03%20010219.png)
 
 d:
-![link](https://github.com/strddustt/TDBOjaar2/issues)
+![link naar issues](https://github.com/strddustt/TDBOjaar2/issues)
 
 opdracht 6 & 7:
 ![opdracht 6](https://github.com/strddustt/prog2.1/blob/main/documentatie/Space48%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.15f1%20_DX11_%202025-11-03%2001-12-33.gif)
-![link](https://github.com/strddustt/Space48/tree/main/Assets/Scripts)
+![link space48 scripts](https://github.com/strddustt/Space48/tree/main/Assets/Scripts)
 
 opdracht 8:
 ![opdracht 8](https://github.com/strddustt/prog2.1/blob/main/documentatie/prog%202.1%20-%20opdracht%208%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.15f1%20_DX11_%202025-11-03%2001-15-11.gif)
 
 opdracht 9:
-![link](https://github.com/strddustt/TDBOjaar2/tree/main/My%20project/Assets/scripts)
-![pdf](github.com/strddustt/prog2.1/blob/main/documentatie/dependencies.pdf)
+![link tdbo](https://github.com/strddustt/TDBOjaar2/tree/main/My%20project/Assets/scripts)
+![pdf dependencies](github.com/strddustt/prog2.1/blob/main/documentatie/dependencies.pdf)
