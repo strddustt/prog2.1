@@ -12,12 +12,15 @@ opdracht 4:
 
 opdracht 5:
 a: shotrange is 0, en delta.magnitude is groter dan 0, dus de condition word niet bereikt. variabele wordt gezet terwijl het ook een parameter van het script is
+
 b: 
 ![issue 1](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-10-31%20034052.png)
 ![issue 2](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-10-31%20034145.png)
 ![issue 3](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-10-31%20034217.png)
+
 c:
 ![breakpoint](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-11-03%20010219.png)
+
 d:
 ![link](https://github.com/strddustt/TDBOjaar2/issues)
 
