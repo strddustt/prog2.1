@@ -38,4 +38,4 @@ opdracht 8:
 
 opdracht 9:
 ![link tdbo](https://github.com/strddustt/TDBOjaar2/tree/main/My%20project/Assets/scripts)
-![pdf dependencies](github.com/strddustt/prog2.1/blob/main/documentatie/dependencies.pdf)
+![pdf dependencies](https://github.com/strddustt/prog2.1/blob/main/documentatie/dependencies.pdf)
