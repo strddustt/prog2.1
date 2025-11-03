@@ -7,14 +7,12 @@ public class scoreboard : MonoBehaviour
 {
     private Text text;
     private int score;
-    // Start is called before the first frame update
     void Start()
     {
         text = GetComponent<Text>();
         Pickup.pickedup += ChangeScore;
     }
 
-    // Update is called once per frame
     void Update()
     {
         

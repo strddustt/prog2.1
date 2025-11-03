@@ -8,13 +8,11 @@ public class EnemyParent : MonoBehaviour
     [SerializeField] public float speed = 5;
     [SerializeField] public float hp = 10;
     internal Rigidbody rb;
-    // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
 

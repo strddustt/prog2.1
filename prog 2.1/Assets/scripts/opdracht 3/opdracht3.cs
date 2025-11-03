@@ -7,13 +7,11 @@ public class opdracht3 : MonoBehaviour
     private float timer = 0;
     [SerializeField] private GameObject enemy;
     private List<GameObject> enemies = new List<GameObject>();
-    // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.W))

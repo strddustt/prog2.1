@@ -5,7 +5,6 @@ using UnityEngine;
 public class elf : EnemyParent
 {
     private Renderer thisRenderer;
-    // Start is called before the first frame update
     void Start()
     {
         thisRenderer = GetComponent<Renderer>();
@@ -15,7 +14,6 @@ public class elf : EnemyParent
         StartCoroutine(invisibility());
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         MoveRight();
