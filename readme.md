@@ -1,30 +1,33 @@
 opdracht 1:
-
+![opdracht 1](https://github.com/strddustt/prog2.1/blob/main/documentatie/opdracht1.gif)
 
 opdracht 2:
-
+![opdracht 2](https://github.com/strddustt/prog2.1/blob/main/documentatie/opdracht2.gif)
 
 opdracht 3:
-
+![opdracht 3](https://github.com/strddustt/prog2.1/blob/main/documentatie/opdracht3.gif)
 
 opdracht 4:
-
+![opdracht 4](https://github.com/strddustt/prog2.1/blob/main/documentatie/opdracht4.gif)
 
 opdracht 5:
 a: shotrange is 0, en delta.magnitude is groter dan 0, dus de condition word niet bereikt. variabele wordt gezet terwijl het ook een parameter van het script is
-b:
+b: 
+![issue 1](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-10-31%20034052.png)
+![issue 2](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-10-31%20034145.png)
+![issue 3](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-10-31%20034217.png)
 c:
+![breakpoint](https://github.com/strddustt/prog2.1/blob/main/documentatie/Screenshot%202025-11-03%20010219.png)
 d:
+![link](https://github.com/strddustt/TDBOjaar2/issues)
 
-opdracht 6:
-
-
-opdracht 7:
-
+opdracht 6 & 7:
+![opdracht 6](https://github.com/strddustt/prog2.1/blob/main/documentatie/Space48%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.15f1%20_DX11_%202025-11-03%2001-12-33.gif)
+![link](https://github.com/strddustt/Space48/tree/main/Assets/Scripts)
 
 opdracht 8:
 ![opdracht 8](https://github.com/strddustt/prog2.1/blob/main/documentatie/prog%202.1%20-%20opdracht%208%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202022.3.15f1%20_DX11_%202025-11-03%2001-15-11.gif)
 
 opdracht 9:
-https://github.com/strddustt/TDBOjaar2/tree/main/My%20project/Assets/scripts
-github.com/strddustt/prog2.1/blob/main/documentatie/dependencies.pdf
+![link](https://github.com/strddustt/TDBOjaar2/tree/main/My%20project/Assets/scripts)
+![pdf](github.com/strddustt/prog2.1/blob/main/documentatie/dependencies.pdf)
